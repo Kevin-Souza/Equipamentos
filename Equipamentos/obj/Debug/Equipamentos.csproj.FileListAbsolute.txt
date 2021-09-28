@@ -76,3 +76,7 @@ D:\Projetos\WebFacul\Equipamentos\Equipamentos\obj\Debug\Equipamentos.csproj.Cor
 D:\Projetos\WebFacul\Equipamentos\Equipamentos\obj\Debug\Equipamentos.csproj.CopyComplete
 D:\Projetos\WebFacul\Equipamentos\Equipamentos\obj\Debug\Equipamentos.dll
 D:\Projetos\WebFacul\Equipamentos\Equipamentos\obj\Debug\Equipamentos.pdb
+D:\Projetos\WebFacul\Equipamentos\Equipamentos\bin\EntityFramework.dll
+D:\Projetos\WebFacul\Equipamentos\Equipamentos\bin\EntityFramework.SqlServer.dll
+D:\Projetos\WebFacul\Equipamentos\Equipamentos\bin\EntityFramework.xml
+D:\Projetos\WebFacul\Equipamentos\Equipamentos\bin\EntityFramework.SqlServer.xml

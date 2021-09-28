@@ -19,7 +19,7 @@ namespace Equipamentos.Controllers
             new Categoria()
             {
                 CategoriaID = 2,
-                Nome = "monitores"
+                Nome = "Monitores"
             },
             new Categoria()
             {
@@ -31,6 +31,19 @@ namespace Equipamentos.Controllers
         public ActionResult Index()
         {
             return View(categorias);
+        }
+        public ActionResult Create()
+        {
+            return View();
+        }
+
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public ActionResult Create(Categoria categoria)
+        {
+            categoria.CategoriaID = categorias.Select(m => m.CategoriaID).Max() + 1;
+            categorias.Add(categoria);
+            return RedirectToAction("Index");
         }
     }
 }
