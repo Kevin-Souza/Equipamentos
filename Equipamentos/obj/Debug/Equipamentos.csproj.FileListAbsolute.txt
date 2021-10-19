@@ -73,7 +73,6 @@ D:\Projetos\WebFacul\Equipamentos\Equipamentos\bin\pt-br\System.Web.Helpers.reso
 D:\Projetos\WebFacul\Equipamentos\Equipamentos\bin\pt-br\System.Web.Mvc.resources.dll
 D:\Projetos\WebFacul\Equipamentos\Equipamentos\obj\Debug\Equipamentos.csproj.AssemblyReference.cache
 D:\Projetos\WebFacul\Equipamentos\Equipamentos\obj\Debug\Equipamentos.csproj.CoreCompileInputs.cache
-D:\Projetos\WebFacul\Equipamentos\Equipamentos\obj\Debug\Equipamentos.csproj.CopyComplete
 D:\Projetos\WebFacul\Equipamentos\Equipamentos\obj\Debug\Equipamentos.dll
 D:\Projetos\WebFacul\Equipamentos\Equipamentos\obj\Debug\Equipamentos.pdb
 D:\Projetos\WebFacul\Equipamentos\Equipamentos\bin\EntityFramework.dll

@@ -1,7 +1,7 @@
 ﻿@model IEnumerable<Equipamentos.Models.Fabricante>
 
 @{
-    Layout = null;
+    Layout = "~/Views/Shared/_Layout.cshtml";
 }
 
 <!DOCTYPE html>
@@ -13,7 +13,7 @@
 </head>
 <body>
     <p>
-        @Html.ActionLink("Create New", "Create")
+        @Html.ActionLink("Novo", "Create")
     </p>
     <table class="table">
         <tr>
